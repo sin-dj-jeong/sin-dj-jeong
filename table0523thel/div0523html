@@ -1,0 +1,52 @@
+<!-- --div html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    #box{
+        width:500px;
+        height:50px;
+        background:pink;
+        margin-top:10px;
+        margin-left:40px;
+    }
+</head>
+body{
+    padding-left:40px;
+}
+</style>
+<head>
+
+</body>
+
+<div id="box1"></div>
+<div id="box"></div>
+<div id="box2"></div>
+<span id="span2>span2<span>
+#soan1, #span{
+    display: inline-block;
+}
+padding:40px
+box-sizing; border-box;
+
+#content{
+    width:700PX;
+    background:skyblaue
+}
+#item1{
+    background:orange;
+    height:100px
+    margin-bottom: 20px;
+}
+#spam2{ width:100px; text-align: right;}
+#spam1{ width:80px;
+}
+#box4{
+    width:190px;
+    box-
+
+}
+<dic id="content"
+    <div id='iteml"></div>

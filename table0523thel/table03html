@@ -1,0 +1,78 @@
+<!--  table3.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style type="taxt/css">
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+    td{
+        border-width:1px;
+        border-color:black;
+        border-style:solid;
+    }
+    th{
+        border:1px solid  black;
+    }
+        *w100{widht:100px}
+        *w80{widht:80px}
+        tr{height:40px;}
+    .bg_tellow{
+        backgrond: bg_yellow
+    }
+ tr:hover
+      <backgroud: id="#CCC 
+     font-size:20px;
+     font-weight::  /*글씨 굵기 
+     font-family;
+     color:white
+    }
+
+   
+    <tr>
+        <th id="title_SCHOOL. ciass=w100 bg_yellow">학교명</th>
+        <th id="title_dept"> class=w100title학과명</th>
+        <th id="title_ name" class>=w100 bg_Light_green"이름</th>
+        <th>class=80 bg_li성적</th>
+    </tr>
+</thead>
+<tbody>
+    <tr >
+        <td>A대학교</td>
+        <td>컴공과</td>
+        <td>이순신</td>
+        <td>4.3</td>
+    </tr>
+    <tr >
+        <td>b대학교</td>
+        <td>국문과</td>
+        <td>한석봉</td>
+        <td>3.9</td>
+    </tr>
+    <tr >
+        <td>c대학교</td>
+        <td>이순신</td>
+        <td>한석봉</td>
+        <td>3.9<td>
+    </tr>
+     <tr >
+        <th ciass bg_yellow학교명</th>
+        <th>ciass학과명</th>
+        <th>이름</th>
+        <th>성적</th>
+     
+</tbody>
+
+
+
+</table>
+
+</body>
+</html>
+    
+</body>
+</html>
