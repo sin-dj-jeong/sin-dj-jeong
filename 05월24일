@@ -1,0 +1,60 @@
+<!-- -- html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <style>
+        {margin:0; box-sizing: bor}
+        #Paret1{
+        margin-top:100PX;
+        margin-left:50px;
+        position:relative;
+        background-color;  black;
+        }
+        #box1{
+            width:300PX; heigeht:300px;
+            background-color : #FFE400
+        }
+        #box2{
+            width:300px; height:300px;
+            background-color : #FFE400
+            position:relative;
+            left:300px;
+            top:50px;
+            right:50px;
+        }
+        #BOX3{
+            Width:300PX; height:300pX;
+            background-color :#FF0000
+            postion:relative; 
+            left:600px;
+        }
+            
+        #box4{
+                width:300px; heigt:300px;
+                background-color :#00D8FF
+                postion: absolu;
+                top:0;
+                left:600px;
+                
+        }
+<body>
+
+    
+</body>
+
+    <div id="PARENT1">
+        <div id="BOX1"></div>
+        <div id="BOX2"><"/div>
+        <div id="BOX3"></diV>
+        <div id='box4"></div>
+</html>
+
+
+
+
+
+
